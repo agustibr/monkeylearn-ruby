@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
 
   spec.version = '3.4.0'
 
-  spec.add_dependency 'faraday', '>= 0.9.2', '< 1.0.0'
+  spec.add_dependency 'faraday', '>= 0.9.2', '< 1.10.3'
 
   spec.licenses = ['MIT']
 
